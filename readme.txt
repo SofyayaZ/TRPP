@@ -1,1 +1,1 @@
-Создан новый проект для работы с ТРПП
+A little practice in Java programming

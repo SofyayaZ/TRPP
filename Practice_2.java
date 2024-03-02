@@ -1,4 +1,4 @@
-package Practice_2.Exercise_10;
+package Practice_2.Exercise_10; //How many
 
 import java.util.Scanner;
 
@@ -10,6 +10,6 @@ public class HowMany {
         String text = inFromUser.nextLine();
         String[] words = text.split("[\\p{Punct}\\s]+");
         int count = words.length;
-        System.out.println("There are " + count + " words in your text");
+        System.out.println("There are " + count + " words in your text! You're awesome!");
     }
 }

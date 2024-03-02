@@ -1,4 +1,6 @@
-package Practice_1;
+package Practice_1; //Exercise_1
+
+
 public class Exercise_1 {
     public static void main(String[] args) {
         int[] arr = {3,4,1,0,12,41,5,7,28};
